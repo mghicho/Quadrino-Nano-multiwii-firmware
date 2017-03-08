@@ -1,4 +1,8 @@
 # Quadrino Nano MultiWii firmware
+
+The files available are pre-configured for the Lynxmotion Quadrino Nano running on MultiWii 2.4.
+We use the Lynxmotion FCT application to configure and output the config.h file.
+
 Quadrino Nano FCT - Defines
 ```
 #define CONFIG_H_
