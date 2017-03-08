@@ -1,6 +1,6 @@
 # Quadrino Nano MultiWii firmware
 Quadrino Nano FCT - Defines
-'''
+```
 #define CONFIG_H_
 #define QUADX
 #define MINTHROTTLE 1220
@@ -111,5 +111,4 @@ Quadrino Nano FCT - Defines
 #define QUADRINO_ANTIWOBBLE    0
 #define QUADRINO_ARMLENGTH    450
 #define QUADRINO_ARMLENGTH_UNIT    IN
-'''
-\
+```
